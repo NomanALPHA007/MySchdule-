@@ -13,10 +13,6 @@ My Schedule is a simple web application built with HTML, CSS, JavaScript, and Bo
 ![Screenshot 1](/screenshots/screenshot1.png)
 ![Screenshot 2](/screenshots/screenshot2.png)
 
-## Demo
-
-You can view a live demo of the application [here](https://your-demo-url.com).
-
 ## Installation
 
 To run this application locally, follow these steps:
@@ -33,12 +29,11 @@ To run this application locally, follow these steps:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute:
+
 1. Fork the repository.
 2. Create your feature branch: `git checkout -b feature/my-new-feature`.
 3. Commit your changes: `git commit -am 'Add some feature'`.
 4. Push to the branch: `git push origin feature/my-new-feature`.
 5. Submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+HAPPY CODING !!
