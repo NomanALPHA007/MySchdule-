@@ -10,8 +10,8 @@ My Schedule is a simple web application built with HTML, CSS, JavaScript, and Bo
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](./My%20schedule/screenshots/screenshot1.png)
+![Screenshot 2](./My%20schedule/screenshots/screenshot2.png)
 
 ## Installation
 
